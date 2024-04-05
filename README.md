@@ -2,12 +2,6 @@
 
 This project explores the automation of a web server that pulls changes from a local machine. It is currently hosted on a Microsoft Azure VPS.
 
-## Technologies Used
-
-- **Cronjobs**: Automates the process of pulling changes.
-- **Docker**: Manages the project's containers.
-- **Load Balancer**: Distributes network traffic across multiple servers.
-
 ## Learning Outcomes
 
 This project has facilitated a deeper understanding of:
